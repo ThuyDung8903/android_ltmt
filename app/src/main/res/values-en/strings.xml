@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">android_ltmt01</string>
+    <string name="text_header">Online Booking</string>
+    <string name="text_footer">Train Time | Regulation | Promotions | Instruct</string>
+    <string name="name_company">Vietnam Railways Corporation</string>
+    <string name="text_address">No. 118 Le Duan, Hoan Kiem District, Hanoi.\n
+        \nCertificate of Business Registration No. 113642 according to QĐ established No. 973/QD-TTg dated 25/06/2010 of the Prime Minister.\n
+        \nBusiness code: 0100105052, first registered on 26/07/2010, 4th change registration on 27/06/2014 at Hanoi Department of Planning and Investment.\n
+        \nCustomer support hotline\nPhone: <b>19006469</b>\n
+        \nEmail: <i>support1@dsvn.vn</i>\n\t\t\t\t\t  <i>support2@dsvn.vn</i>\n
+    </string>
+    <string name="text_booking">Book train tickets</string>
+    <string name="text_name">Fullname</string>
+    <string name="text_phone">Phone</string>
+    <string name="text_departure_station">Departure station</string>
+    <string name="text_arrival_station">Arrival Station</string>
+</resources>
